@@ -91,13 +91,13 @@ minikube service cicd-demo-service
 
 ## 📸 Screenshots
 
-### 1️⃣ GitHub Actions Workflow ✅
+### 1️⃣  Minikube Deployment 🚀
 <img width="1911" height="952" alt="CI/CD Workflow" src="https://github.com/user-attachments/assets/abc19082-2bea-4bda-aa3e-db04cb89c265" />
 
-### 2️⃣ Docker Image Build & Push 🐳
+### 2️⃣ NPM port:3000/health 🐳
 <img width="1908" height="960" alt="Docker Push" src="https://github.com/user-attachments/assets/995f0ad5-9372-4394-bf56-d1b80dfa8712" />
 
-### 3️⃣ Minikube Deployment 🚀
+### 3️⃣ NPM Deployment 🚀
 <img width="1915" height="960" alt="Minikube Deploy" src="https://github.com/user-attachments/assets/bbd0b18a-4406-40d4-b6f1-d5174f540d78" />
 
 ### 4️⃣ Kubernetes Pods Running 🎡
@@ -109,10 +109,10 @@ minikube service cicd-demo-service
 ### 6️⃣ Accessing App on Port 3000 🎉
 <img width="1907" height="889" alt="App Running" src="https://github.com/user-attachments/assets/3611beae-5063-4d3c-a6ff-9cc07f4b9c16" />
 
-### 7️⃣ Health Check Endpoint ✅
+### 7️⃣ GitHub Actions Workflow ✅
 <img width="1919" height="906" alt="Health Check" src="https://github.com/user-attachments/assets/5eeac542-f7c3-40ff-b11d-0cf7d7535e4f" />
 
-### 8️⃣ Test Results with Jest 🧪
+### 8️⃣ Docker Image Build & Push 🐳
 <img width="1919" height="1018" alt="Tests Passing" src="https://github.com/user-attachments/assets/ed84eccf-98e2-4b71-b288-9a1947ef469a" />
 
 ### 9️⃣ Final CI/CD Success 🎯
