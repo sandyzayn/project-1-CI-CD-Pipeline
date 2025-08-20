@@ -14,9 +14,12 @@ spec:
     spec:
       containers:
         - name: web
-          image: DOCKERHUB_USERNAME/cicd-demo:latest
+          image: sandyzayn/cicd-demo:latest
+          imagePullPolicy: IfNotPresent   # <-- Added this line
           ports:
             - containerPort: 3000
           env:
             - name: NODE_ENV
               value: "production"
+ 
+
