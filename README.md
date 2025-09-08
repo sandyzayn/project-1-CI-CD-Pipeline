@@ -126,4 +126,5 @@ minikube service cicd-demo-service
 - ✅ Docker image pushed to Docker Hub
 - ✅ CI/CD pipeline results
 - ✅ Deployed app running locally via Minikube
+## 📄 [View Project Report](./Project_report_cicd.pdf)
 
